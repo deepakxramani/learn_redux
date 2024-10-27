@@ -1,0 +1,12 @@
+Task List
+
+taskid
+taskname
+assigndate
+finishdate
+assignto
+picture
+status: 
+        not completed
+        pending
+        completed
